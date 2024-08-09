@@ -1,4 +1,4 @@
-# Anirudh YS
+# Anirudh Sharma
 Beautiful HTML,CSS and Bootstrap Portfolio website
 
 # Features
